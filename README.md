@@ -24,20 +24,25 @@ A robust, production-ready web automation framework built using Python, Selenium
 ```
 
 ## 🛠️ Getting Started
-1. Prerequisites
+
+### 1. Prerequisites
 Ensure you have Python 3.11+ installed.
 
-2. Install Dependencies
+### 2. Install Dependencies
 Clone this repository to your local machine, navigate to the directory, and run:
 
-Bash
+```bash
 pip install -r requirements.txt
-3. Execute the Automation Suite
+```
+
+### 3. Execute the Automation Suite
 To run all tests and view the execution report in the terminal:
 
-Bash
+```bash
 pytest -v
-📝 Roadmap & Future Enhancements
+```
+
+## 📝 Roadmap & Future Enhancements
 [ ] Integrate Allure Reports for advanced visual HTML reporting.
 
 [ ] Implement parallel test execution using pytest-xdist.
