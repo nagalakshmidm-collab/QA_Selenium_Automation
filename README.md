@@ -1,5 +1,4 @@
 # QA Automation Framework 🚀🧪
-AI Augmented QA Test Automation
 
 A robust, production-ready web automation framework built using Python, Selenium WebDriver, and PyTest. This project implements the **Page Object Model (POM)** design pattern to ensure clean separation of concerns, high test maintainability, and rapid test execution.
 
@@ -22,7 +21,7 @@ A robust, production-ready web automation framework built using Python, Selenium
 ├── requirements.txt      # Project dependencies (selenium, pytest, webdriver-manager)
 └── README.md             # Project documentation
 
-🛠️ Getting Started
+## 🛠️ Getting Started
 1. Prerequisites
 Ensure you have Python 3.11+ installed.
 
