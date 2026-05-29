@@ -22,7 +22,7 @@ A robust, production-ready web automation framework built using Python, Selenium
 ├── requirements.txt      # Project dependencies (selenium, pytest, webdriver-manager)
 └── README.md             # Project documentation
 
-🛠️ Getting Started
+##🛠️ Getting Started
 1. Prerequisites
 Ensure you have Python 3.11+ installed.
 
