@@ -9,6 +9,7 @@ A robust, production-ready web automation framework built using Python, Selenium
 * **AI-Accelerated Development:** Optimized using Cursor GenAI for rapid boilerplate reduction and automated debugging workflows.
 
 ## 📂 Project Structure
+
 ```text
 .
 ├── pages/                # Page Object classes containing UI elements and actions
@@ -20,6 +21,7 @@ A robust, production-ready web automation framework built using Python, Selenium
 ├── .gitignore            # Excludes drivers, virtual environments, and __pycache__
 ├── requirements.txt      # Project dependencies (selenium, pytest, webdriver-manager)
 └── README.md             # Project documentation
+```
 
 ## 🛠️ Getting Started
 1. Prerequisites
